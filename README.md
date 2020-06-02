@@ -35,44 +35,54 @@ It contains my course work and project for Data Science, Data Mining, Bioinforma
 **Frames and libraries:** pandas, csv, gensim, nltk, pprint, LdaModel, WordNetLemmatizer, corpora.
 ### Machine Learning Classification for Sentiment Analysis
 **Description:** Performed sentiment analysis on the tweets data using machine learning Logistic Regression classification.\
+**Work type:** Individual course work.\
 **Programming language and tools:** Python 3, Jupyter Notebook.\
 **Frames and libraries:** pandas, csv, re, string, nltk, itertools, sklearn, LogisticRegression.
 
 ## Bioinformatics
 ### Hypothesis testing to compare multiple algorithms
 **Description:** Created null hypothesis, conducted t-statistic, p-value and then calculated mean.\
+**Work type:** Individual course work.\
 **Programming language and tools:** Python 3, Jupyter Notebook.\
 **Frames and libraries:** pandas, scipy.
 ### Machine Learning model on iris dataset
 **Description:** Applied KNN classification model into the iris dataset.\
+**Work type:** Individual course work.\
 **Programming language and tools:** Python 3, Jupyter Notebook.\
 **Frames and libraries:** pandas, numpy, sklearn, KNeibhborsClassifier.
 ### Regression Model
 **Description:** Using multiple linear regression model predict semantic similarity based on the given input data. Calculated R-square value and drawn residual plots.\
+**Work type:** Individual course work.\
 **Programming language and tools:** Python 3, Jupyter Notebook.\
 **Frames and libraries:** pandas, statsmodels, seaborn, matplotlib.
 ### Semantic Similarity
 **Description:** Calculate semantic similarity between pair of data by using Jaccard, Resnik, AllPair, BestPair similarity algorithms.\
+**Work type:** Individual course work.\
 **Programming language and tools:** Python 3, Jupyter Notebook.\
 **Frames and libraries:** pandas, numpy, colections.
 ### String Matching using Z and KMP algorithms
 **Description:** I created python script for Z and KMP algorithm to check if a pattern is present in the given text or not.\
+**Work type:** Individual course work.\
 **Programming language and tools:** Python 3, Jupyter Notebook.
 
 ## Digital Image Processing
 ### Arithmetic Operation, Point Processing, and Geometric Transformation
 **Description:** Using the given input image file, I created python script and performed subtraction, negation, and translation on the images.\
+**Work type:** Individual course work.\
 **Programming language and tools:** Python 3, Jupyter Notebook.\
 **Frames and libraries:** numpy.
 ### Co-occurrence Matrix, Correlation Coefficient, Downsampling, and Upsampling
 **Description:** I have written python script for co-occurrence matrix, correlation coefficient, downsampling and upsampling algorithms. Then using the given image file, I performed those algorithms on the images.\
+**Work type:** Individual course work.\
 **Programming language and tools:** Python 3, Jupyter Notebook.\
 **Frames and libraries:** numpy, math.
 ### Histogram Processing and Spatial Filtering Algorithms
 **Description:** I have written python script for histrogram processing, gaussian filtering, unsharp masking and highpass filtering. Then using the given image file, I performed those algorithms on the images.\
+**Work type:** Individual course work.\
 **Programming language and tools:** Python 3, Jupyter Notebook.\
 **Frames and libraries:** numpy, math, subtract.
 ### Morphological Algorithm, Edge Detection, and Boundary Extraction
 **Description:** I have written python script for dilation, erosion, boundary extraction, edge detection by using gradient operators. Then using the given image file, I performed those algorithms on the images.\
+**Work type:** Individual course work.\
 **Programming language and tools:** Python 3, Jupyter Notebook.\
 **Frames and libraries:** numpy, math.
